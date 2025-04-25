@@ -45,6 +45,7 @@ analyzer:
     - '**/*.pbenum.dart'
     - '**/*.pbjson.dart'
     - '**/*.pbserver.dart'
+    - 'example/lib/**'
     # - 'web/*.dart'
 
 linter:
